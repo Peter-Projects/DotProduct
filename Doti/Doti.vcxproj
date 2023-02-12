@@ -121,7 +121,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <Optimization>MaxSpeedHighLevel</Optimization>
-      <UseProcessorExtensions>None</UseProcessorExtensions>
+      <UseProcessorExtensions>HOST</UseProcessorExtensions>
       <AssemblerOutput>AssemblyAndSourceCode</AssemblerOutput>
       <InterproceduralOptimization>NoIPO</InterproceduralOptimization>
       <AssemblerListingLocation>$(SolutionDir)$(Platform)\$(Configuration)\</AssemblerListingLocation>
